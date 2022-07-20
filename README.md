@@ -1,7 +1,7 @@
 [![Build Status][ci-badge]][ci-link]
-[![Coverage Status][cov-badge]][cov-link]
-[![Docs status][docs-badge]][docs-link]
 [![PyPI version][pypi-badge]][pypi-link]
+<!-- [![Coverage Status][cov-badge]][cov-link]
+[![Docs status][docs-badge]][docs-link] -->
 
 # aiida_conda_scheduler
 
@@ -63,10 +63,10 @@ MIT
 
 chrisj_sewell@hotmail.com
 
-[ci-badge]: https://github.com/chrisjsewell/aiida-conda-scheduler/workflows/ci/badge.svg?branch=master
+[ci-badge]: https://github.com/chrisjsewell/aiida-conda-scheduler/workflows/ci/badge.svg?branch=main
 [ci-link]: https://github.com/chrisjsewell/aiida-conda-scheduler/actions
-[cov-badge]: https://coveralls.io/repos/github/chrisjsewell/aiida-conda-scheduler/badge.svg?branch=master
-[cov-link]: https://coveralls.io/github/chrisjsewell/aiida-conda-scheduler?branch=master
+[cov-badge]: https://coveralls.io/repos/github/chrisjsewell/aiida-conda-scheduler/badge.svg?branch=main
+[cov-link]: https://coveralls.io/github/chrisjsewell/aiida-conda-scheduler?branch=main
 [docs-badge]: https://readthedocs.org/projects/aiida_conda_scheduler/badge
 [docs-link]: http://aiida_conda_scheduler.readthedocs.io/
 [pypi-badge]: https://badge.fury.io/py/aiida_conda_scheduler.svg
